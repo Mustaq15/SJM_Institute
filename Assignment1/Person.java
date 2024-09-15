@@ -53,5 +53,9 @@ public class Person {
 		this.age=age;
 		gender="NA";
 	}
+	
+	public void setGender(String gender) {
+		this.gender=gender;
+	}
 
 }

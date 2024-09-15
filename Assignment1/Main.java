@@ -18,7 +18,11 @@ public class Main {
 		p.display();
 		
 		Person p1=new Person("MuhammedMusaib",13);
+		p1.setGender("Male");
 		p1.display();
+		
+		Person p2=new Person("Ahana",15);
+		p2.display();
 
 	}
 
