@@ -1,22 +1,22 @@
 # SJM_Institute
 Assignments
 
-Syllabus (Core Java)
+<h1>Syllabus (Core Java)<\h1>
 -------------------------------------------
-01.Java Introduction Done 
-02.Env Setup Done 
-03.OOPs Programming Done 
-04.Java Data types & Variables Done
-05.Operators in Java Done
-06.Java Control statements Done 
-07.Arrays in Java Done
-08.(Multi-dimensional has to cover) 
-09.String in java 
-10.Classes and Objects Done 
-11.Constructor & Destructors 
-12.Inheritance --> In progress 
-13.Interface 
-14.Abstraction and Encapsulation in Java --> Glimpse is done 
-15.Polymorphism in Java 
-16.Exception handline in java 
-17.Java packages
+<p1>01.Java Introduction Done<\p1>
+<p1>02.Env Setup Done<\p1> 
+<p1>03.OOPs Programming Done<\p1> 
+<p1>04.Java Data types & Variables Done<\p1>
+<p1>05.Operators in Java Done<\p1>
+<p1>06.Java Control statements Done <\p1>
+<p1>07.Arrays in Java Done<\p1>
+<p1>08.(Multi-dimensional has to cover) <\p1>
+<p1>09.String in java <\p1>
+<p1>10.Classes and Objects Done <\p1>
+<p1>11.Constructor & Destructors <\p1>
+<p1>12.Inheritance --> In progress <\p1>
+<p1>13.Interface <\p1>
+<p1>14.Abstraction and Encapsulation in Java --> Glimpse is done <\p1>
+<p1>15.Polymorphism in Java <\p1>
+<p1>16.Exception handline in java <\p1>
+<p1>17.Java packages<\p1>
