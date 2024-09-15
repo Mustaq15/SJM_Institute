@@ -2,7 +2,6 @@
 Assignments
 
 <h1>Syllabus (Core Java)</h1>
--------------------------------------------
 <p1>01.Java Introduction Done</p1><br>
 <p1>02.Env Setup Done</p1> <br>
 <p1>03.OOPs Programming Done</p1> <br>
