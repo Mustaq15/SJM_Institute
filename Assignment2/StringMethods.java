@@ -46,7 +46,5 @@ public class StringMethods {
 		        String[] parts = str.split("l");
 		        System.out.println(Arrays.toString(parts)); 		 // ["He", "", "o"]
 		    }
-	
-	
 
 }

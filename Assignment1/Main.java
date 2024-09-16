@@ -8,13 +8,11 @@ public class Main {
 		String Name=p.getName();
 		int Age=p.getAge();
 		String Gender=p.getGender();
-		
-		System.out.println(Name);
-		System.out.println(Age);
-		System.out.println(Gender);
-		
+
+		System.out.println("Name \t:"+Name);
+		System.out.println("Age \t:"+Age);
+		System.out.println("Gender \t:"+Gender);
 		p.setAge(26);
-		
 		p.display();
 		
 		Person p1=new Person("MuhammedMusaib",13);
@@ -25,5 +23,4 @@ public class Main {
 		p2.display();
 
 	}
-
 }

@@ -27,24 +27,29 @@ public class Person {
 		this.gender=gender;
 	}
 
-	public String getName() {
+	public String getName()
+	{
 		return name;
 	}
 
-	public int getAge() {
+	public int getAge()
+	{
 		return age;
 	}
 
-	public String getGender() {
+	public final String getGender()
+	{
 		return gender;
 	}
 
-	public void setAge(int age) {
+	public void setAge(int age)
+	{
 		this.age = age;
 	}
 	
-	public void display(){
-		System.out.println("Name : "+name+" "+"Age : "+age+" "+"Gender : "+gender);
+	public void display()
+	{
+		System.out.println("Name \t: "+name+"\n"+"Age \t: "+age+"\n"+"Gender \t: "+gender);
 	}
 	
 	public Person(String name,int age)
@@ -54,7 +59,8 @@ public class Person {
 		gender="NA";
 	}
 	
-	public void setGender(String gender) {
+	public void setGender(String gender)
+	{
 		this.gender=gender;
 	}
 
